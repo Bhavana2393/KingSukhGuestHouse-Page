@@ -359,13 +359,6 @@ header {
   font-weight: 500;
   padding-bottom: 10px;
 }
-{
-      font-family: 'oswald', Tahoma, Geneva, Verdana, sans-serif;
-      background: #f9f9f9;
-      margin: 0;
-      padding: 2rem;
-    }
-
     .testimonial-section {
       max-width: 800px;
       margin: auto;
